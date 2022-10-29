@@ -1,24 +1,22 @@
-{
-    "employees": [
-        {
-            "name": "Ram",
-            "email": "ram@gmail.com",
-            "age": 23
-        },
-        {
-            "name": "Shyam",
-            "email": "shyam23@gmail.com",
-            "age": 28
-        },
-        {
-            "name": "John",
-            "email": "john@gmail.com",
-            "age": 33
-        },
-        {
-            "name": "Bob",
-            "email": "bob32@gmail.com",
-            "age": 41
-        }
-    ]
-}
+[
+    {
+        "employee": "Ram",
+        "email-address": "ram@gmail.com",
+        "age": 23
+    },
+    {
+        "employee": "Shyam",
+        "email-address": "shyam23@gmail.com",
+        "age": 28
+    },
+    {
+        "employee": "John",
+        "email-address": "john@gmail.com",
+        "age": 33
+    },
+    {
+        "employee": "Bob",
+        "email-address": "bob32@gmail.com",
+        "age": 41
+    }
+]
