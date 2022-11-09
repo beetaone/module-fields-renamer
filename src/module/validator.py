@@ -8,7 +8,6 @@ from logging import getLogger
 
 log = getLogger("validator")
 
-
 def data_validation(data: any) -> str:
     """
     Validate incoming data i.e. by checking if it is of type dict or list.
@@ -25,8 +24,6 @@ def data_validation(data: any) -> str:
     log.debug("Validating ...")
 
     try:
-        # YOUR CODE HERE
-
         allowed_data_types = [dict, list]
 
         if not type(data) in allowed_data_types:
