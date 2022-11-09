@@ -18,5 +18,10 @@
         "employee": "Bob",
         "email-address": "bob32@gmail.com",
         "age": 41
+    },
+    {
+        "temperature": 100,
+        "rpm": 41,
+        "location": "London"
     }
 ]
