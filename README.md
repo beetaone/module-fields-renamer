@@ -3,7 +3,7 @@
 |                |                                       |
 | -------------- | ------------------------------------- |
 | Name           | Fields Renamer                           |
-| Version        | v1.0.0                                |
+| Version        | v1.0.1                                |
 | DockerHub | [weevenetwork/fields-renamer](https://hub.docker.com/r/weevenetwork/fields-renamer) |
 | Authors        | Jakub Grzelak                    |
 
